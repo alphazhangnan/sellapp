@@ -83,7 +83,6 @@ export default {
   }
 }
 ```
-除了以上总结的这点小的知识点以外，还有很多vue的知识想要和大家分享，以后会陆续写出来，大家感兴趣的也可以来我的GitHub一起来写这个项目（觉得不错的给个star Hah）
 ## Build Setup
 
 ``` bash
