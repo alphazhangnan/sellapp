@@ -1,5 +1,5 @@
 # 饿了么点餐系统
-    vue2.0、vuex、vue-router、axios、webpack、better-scroll
+    vue2.0、vue-router、axios、webpack、better-scroll
 ## 演示
 [在线演示戳我][1]（请使用chrome开发者手机演示模式预览）
 
